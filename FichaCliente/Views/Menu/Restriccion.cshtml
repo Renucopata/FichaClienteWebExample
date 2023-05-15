@@ -1,0 +1,64 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE HTML>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ecocliente</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+
+    <style>
+        body {
+            margin: 0;
+            background-image: url('../FondoEcofuturo.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+
+        .contenedor {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            height: 100vh;
+        }
+
+        .izquierda {
+            background: linear-gradient(rgba(255,80,0,0.55),white) center;
+            display: flex;
+            text-align: center;
+            justify-content: center;
+            border-bottom-right-radius: 40%;
+            border-top-right-radius: 40%;
+        }
+
+        .login {
+            position: absolute;
+            top: 25%;
+            left: 12%;
+            height: 180px;
+            width: 400px;
+            padding: 5px;
+            z-index: 2;
+        }
+    </style>
+</head>
+<body>
+    <div class="contenedor">
+        <div class="izquierda">
+            <div class="login">
+                <div class="my-5 text-center text-black">
+                    <h5>SU USUARIO NO ESTÁ AUTORIZADO AL INGRESO</h5>
+                </div>
+                <div class="d-grid">
+                    <a asp-controller="Menu" asp-action="Sesion" class="btn p-3" style="background-color: rgb(255, 80, 0); color: white;border-radius: 30px 30px 30px 30px"><b>Aceptar</b></a>
+                </div>
+            </div>
+            <img class="img-fluid" src="~/LogoTrans.png" style="width:80px; position:absolute; left:2%;bottom:4%" />
+        </div>
+    </div>
+</body>
+</html>

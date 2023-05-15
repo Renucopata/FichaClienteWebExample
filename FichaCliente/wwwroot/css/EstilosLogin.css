@@ -1,0 +1,41 @@
+﻿body {
+    margin: 0;
+    background-image: url('../FondoEcofuturo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.contenedor {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 100vh;
+}
+
+.izquierda {
+    background: linear-gradient(rgba(255,80,0,0.55),white) center;
+    color: rgb(255,80,0);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    border-bottom-right-radius: 40%;
+    border-top-right-radius: 40%;
+}
+
+.login {
+    position: absolute;
+    top: 15%;
+    left: 12%;
+    height: 180px;
+    width: 400px;
+    padding: 5px;
+    z-index: 2;
+}
+
+.form-control-feedback {
+    position: absolute;
+    padding: 18px;
+    right: 5%;
+    cursor: pointer;
+    opacity: 0.4;
+}

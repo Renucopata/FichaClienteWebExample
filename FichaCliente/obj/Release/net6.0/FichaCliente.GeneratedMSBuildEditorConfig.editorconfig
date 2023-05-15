@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FichaCliente
+build_property.RootNamespace = FichaCliente
+build_property.ProjectDir = D:\FichaCliente\FichaCliente\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\FichaCliente\FichaCliente
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/FichaCliente/FichaCliente/Views/Fichas/Paneles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmljaGFzXFBhbmVsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FichaCliente/FichaCliente/Views/Fichas/PizarraCajas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmljaGFzXFBpemFycmFDYWphcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FichaCliente/FichaCliente/Views/Fichas/PizarraCartera.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmljaGFzXFBpemFycmFDYXJ0ZXJhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FichaCliente/FichaCliente/Views/Fichas/PizarraCorr.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmljaGFzXFBpemFycmFDb3JyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FichaCliente/FichaCliente/Views/Fichas/PizarraDpfs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmljaGFzXFBpemFycmFEcGZzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FichaCliente/FichaCliente/Views/Fichas/PizarraTarjetas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmljaGFzXFBpemFycmFUYXJqZXRhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FichaCliente/FichaCliente/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FichaCliente/FichaCliente/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FichaCliente/FichaCliente/Views/Menu/ERRORsaul.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxFUlJPUnNhdWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FichaCliente/FichaCliente/Views/Menu/Restriccion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxSZXN0cmljY2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FichaCliente/FichaCliente/Views/Menu/Sesion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxTZXNpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FichaCliente/FichaCliente/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FichaCliente/FichaCliente/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FichaCliente/FichaCliente/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FichaCliente/FichaCliente/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FichaCliente/FichaCliente/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-yky3334bvc

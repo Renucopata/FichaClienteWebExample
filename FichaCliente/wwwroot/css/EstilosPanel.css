@@ -1,0 +1,46 @@
+﻿.bg-eco {
+    background-color: rgb(255,80,0);
+}
+
+.btn-eco {
+    color: white;
+    font-size: 1.5em;
+}
+
+.wdth-in {
+    width: 135px;
+}
+
+.barra {
+    height: 4px;
+    background-color: rgb(37,74,133);
+}
+
+h3 {
+    color: gray;
+}
+
+.pm-eco {
+    background-color: rgb(217, 217, 217);
+    color: rgb(89, 89, 89);
+    text-align: center;
+}
+
+th {
+    text-align: center;
+    color: gray;
+}
+
+.azul-eco {
+    background-color: rgb(47,82,143);
+    border-radius: 17px 17px 17px 17px;
+}
+
+table td {
+    vertical-align: middle;
+}
+
+.card-body{
+    overflow-y:auto;
+    max-height:350px;
+}

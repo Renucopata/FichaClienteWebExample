@@ -1,0 +1,49 @@
+﻿.bg-eco {
+    background-color: rgb(255,80,0);
+}
+
+.ind-eco {
+    color: white;
+    font-size: 1.5em;
+}
+
+.puntero {
+    color: black;
+    font-size: 1.5em;
+}
+
+.barraV {
+    height: 100%;
+    width: 5px;
+    background-color: rgb(255,80,0);
+    margin-left: 10px;
+}
+
+.barraH {
+    height: 5px;
+    background-color: rgb(37,74,133);
+}
+
+label {
+    color: rgb(255,80,0);
+    font-size: 140%;
+    font-weight: bold;
+}
+
+.tasa-eco {
+    background-color: rgb(37,74,133);
+    width: 90px;
+    height: 94px;
+    border-radius: 0px 45px 45px 0px;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    line-height: 100px;
+    font-weight: bold;
+    font-size: 80%;
+}
+
+textarea {
+    height: 85px;
+    line-height: 0.85em;
+}

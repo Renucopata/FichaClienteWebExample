@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FichaCliente",
+    "\\FichaCliente\\Controllers",
+    "\\FichaCliente\\Models",
+    "\\FichaCliente\\Views",
+    "\\FichaCliente\\Views\\Home",
+    "\\FichaCliente\\Views\\Menu"
+  ],
+  "SelectedNode": "\\FichaCliente\\Views\\Menu\\Sesion.cshtml",
+  "PreviewInSolutionExplorer": false
+}
